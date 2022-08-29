@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/DEV/vcpkg/packages/gsl_x64-windows/include",
+        "C:/DEV/vcpkg/packages/gmp_x64-windows/include"
+      ],
+      "compilerPath": "C:/Users/MaximilianGumz/OneDrive - ALAIQ Technologie GmbH/Compiler Libraries/llvm-mingw-20220323-msvcrt-x86_64/bin/x86_64-w64-mingw32-gcc.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++23",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ],
+      "configurationProvider": "ms-vscode.cmake-tools"
+    }
+  ],
+  "version": 4
+}
