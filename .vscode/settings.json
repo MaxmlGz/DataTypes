@@ -1,9 +1,9 @@
 {
-  "C_Cpp_Runner.cCompilerPath": "C:/Users/MaximilianGumz/OneDrive - ALAIQ Technologie GmbH/Compiler Libraries/llvm-mingw-20220323-msvcrt-x86_64/bin/x86_64-w64-mingw32-gcc.exe",
-  "C_Cpp_Runner.cppCompilerPath": "g++",
-  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cCompilerPath": "C:/MinGW/bin/gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/MinGW/bin/g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/MinGW/bin/gdb.exe",
   "C_Cpp_Runner.cStandard": "c17",
-  "C_Cpp_Runner.cppStandard": "c++23",
+  "C_Cpp_Runner.cppStandard": "c++20",
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.useMsvc": false,
   "C_Cpp_Runner.warnings": [
@@ -17,11 +17,12 @@
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [
     "C:/DEV/vcpkg/packages/gsl_x64-windows/include",
-    "C:/DEV/vcpkg/packages/gmp_x64-windows/include"
+    "C:/DEV/vcpkg/packages/gmp_x64-windows/include",
+    "C:/Program Files/MATLAB/R2022a/sys/lcc64/lcc64/include64",
+    "C:/Program Files/MATLAB/R2022a/extern/include"
   ],
   "C_Cpp_Runner.includeSearch": [
-    "*",
-    "C:/DEV/vcpkg/packages/gsl_x64-windows/include"
+    "*"
   ],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
@@ -31,5 +32,5 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "sonarlint.pathToCompileCommands": "C:/Users/MaximilianGumz/OneDrive - ALAIQ Technologie GmbH/Datatype Identification/DataTypes/.vscode/c_cpp_properties.json"
+  "C_Cpp.errorSquiggles": "Disabled"
 }

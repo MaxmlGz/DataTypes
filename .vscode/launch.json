@@ -11,7 +11,7 @@
       "cwd": "c:/Users/MaximilianGumz/OneDrive - ALAIQ Technologie GmbH/Datatype Identification/DataTypes/Ccode",
       "program": "c:/Users/MaximilianGumz/OneDrive - ALAIQ Technologie GmbH/Datatype Identification/DataTypes/Ccode/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

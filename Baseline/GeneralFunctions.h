@@ -13,7 +13,7 @@
 // #include <map>
 // #include <boost/shared_ptr.hpp>
 // #include <string>
-// 
+//
 #include <gsl/gsl_sf_exp.h>
 #include <gsl/gsl_sf_log.h>
 #include <gsl/gsl_blas.h>
